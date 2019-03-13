@@ -57,3 +57,8 @@ Probability and Computation
 Concurrency
 Hoare Logic and Model Checking 
 Machine Learning and Bayesian Inference
+
+------------------
+Distributed computing is a field of computer science that studies distributed systems. 
+A distributed system is a system whose components are located on different networked computers, 
+which communicate and coordinate their actions by passing messages to one another.
