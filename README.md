@@ -3,7 +3,9 @@ repository for CS topics
 
 Databases
 Digital Electronics
-Discrete Mathematic
+
+Discrete Mathematic - Time in computer games is not continuous - it is split up into frames of 1/60th of a second.
+
 Foundations of Computer Science
 Computer Graphics
 Machine Learning
