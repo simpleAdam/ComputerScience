@@ -13,6 +13,11 @@
 * Registration
 * Scientific Computing
 * Algorithms and Data Structures
+..* Arrays
+..*Linked Lists
+..*Stack
+..*Queue
+..*Hash table
 * Operating Systems
 * Interaction Design
 * Numerical Analysis
