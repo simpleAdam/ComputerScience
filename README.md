@@ -13,8 +13,8 @@
 * Registration
 * Scientific Computing
 * Algorithms and Data Structures 
-    ..* Arrays
- ```* Linked Lists```
+    * Arrays
+    * Linked Lists
 * Operating Systems
 * Interaction Design
 * Numerical Analysis
