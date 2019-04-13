@@ -12,8 +12,9 @@
 * Object-Oriented Programming
 * Registration
 * Scientific Computing
-* Algorithms and Data Structures ..* Arrays
- ..* Linked Lists
+* Algorithms and Data Structures 
+    ..* Arrays
+ ```* Linked Lists```
 * Operating Systems
 * Interaction Design
 * Numerical Analysis
