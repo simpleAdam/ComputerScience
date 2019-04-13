@@ -15,6 +15,11 @@
 * Algorithms and Data Structures 
     * Arrays
     * Linked Lists
+    * Stack
+    * Queue
+    * Hash table
+    * Trees
+    * Graphs
 * Operating Systems
 * Interaction Design
 * Numerical Analysis
