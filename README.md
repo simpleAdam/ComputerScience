@@ -15,7 +15,8 @@
    * > Chakins curves, Bezier curves, Subdivision Surfaces
    * ``` ```
    * > Transformations: translation, rotation, scaling
-   * 
+   * > Cameras: camera transform, perspective, field of view
+   * > 
    
 * Machine Learning
 * Object-Oriented Programming
