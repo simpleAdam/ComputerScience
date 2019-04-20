@@ -8,6 +8,11 @@
 
 * Foundations of Computer Science
 * Computer Graphics
+   * Vectors
+   * Coordiante Systems
+   * Points
+   > Affine Combinations and Affine Space
+   
 * Machine Learning
 * Object-Oriented Programming
 * Registration
