@@ -14,6 +14,8 @@
    * > Polygons Vs Curves
    * > Chakins curves, Bezier curves, Subdivision Surfaces
    * ``` ```
+   * > Transformations: translation, rotation, scaling
+   * 
    
 * Machine Learning
 * Object-Oriented Programming
