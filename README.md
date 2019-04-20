@@ -8,10 +8,12 @@
 
 * Foundations of Computer Science
 * Computer Graphics
-   * Vectors
-   * Coordiante Systems
-   * Points
-   > Affine Combinations and Affine Space
+   * > Vectors, Points and Coordiante Systems
+   * > Affine Combinations and Affine Space
+   * > Matrices
+   * > Polygons Vs Curves
+   * > Chakins curves, Bezier curves, Subdivision Surfaces
+   * ``` ```
    
 * Machine Learning
 * Object-Oriented Programming
