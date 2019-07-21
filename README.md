@@ -90,3 +90,10 @@ Perl is the de facto standard for CGI programming for a number of reasons, but p
 * Flexible Text Handling-no details to worry. The way that Perl handles strings, in terms of memory allocation and deallocation, fades into the background as you program. You simply can ignore the details of concatenating, copying, and creating new strings.
 
 The advantage of an interpreted language in CGI applications is its simplicity in development, debugging, and revision. By removing the compilation step, you and I can move more quickly from task to task, without the frustration that can sometimes arise from debugging compiled programs. Of course, not any interpreted language will do. Perl has the distinct advantage of having an extremely rich and capable functionality.
+
+### Stack Machines
+In computer science, computer engineering and programming language implementations, a stack machine is a type of computer. In some cases, the term refers to a software scheme that simulates a stack machine.
+
+The main difference from other computers is that most of its instructions operate on a pushdown stack of numbers rather than numbers held in processor registers. Because the operands used in the instructions are always in a known location, the top of the stack, the instructions themselves do not require memory addresses or register numbers to supply their operands. This leads to an instruction set architecture (ISA) style known as a zero address format.
+
+Stacks are not unique to stack machines, most programming languages make extensive use of stacks to support subroutines and method calls. For this reason, stack machines more closely mimic the inner workings of the programs that run on them, assuming the programs are written in high level languages. This has led to a number of central processor unit designs that implement stack machines in order to provide higher performance. In practice, however, these designs have been outperformed by the traditional register machine systems, and have remained a niche player in the market.
