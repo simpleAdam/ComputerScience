@@ -20,6 +20,7 @@
    
 * Machine Learning
 * Object-Oriented Programming
+  * > Polymorphism, static or dynamic
 * Registration
 * Scientific Computing
 * Algorithms and Data Structures 
