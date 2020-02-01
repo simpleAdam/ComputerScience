@@ -2,6 +2,11 @@
 ### repository for CS topics
 
 * Databases
+  * Conceptual modeling The Entity-Relationship
+  * The relational model
+  * The graph-oriented model The NoSQL movement. Implementing ER models in a graph-oriented database.
+  * The document-oriented model Semi-structured data (XML, JSON).
+  * The multi-dimensional model.
 * Digital Electronics
 
 * Discrete Mathematic - Time in computer games is not continuous - it is split up into frames of 1/60th of a second.
