@@ -1,11 +1,10 @@
 # ComputerScience
 ### repository for CS topics
 
-* Web Design
- * Responsive Design principles
-  * The fluid grid concept calls for page element sizing to be in relative units like percentages, rather than absolute units like pixels or points
-  * Flexible images are also sized in relative units, so as to prevent them from displaying outside their containing element.
-  * Media queries allow the page to use different CSS style rules based on characteristics of the device the site is being displayed on.
+* Responsive Web Design principles
+  * > The fluid grid concept calls for page element sizing to be in relative units like percentages, rather than absolute   units like pixels or points
+  * > Flexible images are also sized in relative units, so as to prevent them from displaying outside their containing element.
+  * > Media queries allow the page to use different CSS style rules based on characteristics of the device the site is being displayed on.
 
 * Databases
   * Conceptual modeling The Entity-Relationship
