@@ -2,11 +2,11 @@
 ### repository for CS topics
 
 * Google web Fundamentals
- According to Google, the core foundatiosn of a 'delightful web experience' are;
- * > Fast - It responds quickly to user interactions with silky smooth animations and no janky scrolling.
- * > Integrated - The user doesn’t have to reach through the browser, it uses the full capabilities of the device to create an experience true to the device.
- * > Reliable - Load instantly and reliably, never showing the downasaur, even in uncertain network conditions.
- * > Engaging - Keeps the user coming back to the app with beautifully designed experiences that look and feel natural.
+ According to Google, the core foundations of a 'delightful web experience' are;
+  * > Fast - It responds quickly to user interactions with silky smooth animations and no janky scrolling.
+  * > Integrated - The user doesn’t have to reach through the browser, it uses the full capabilities of the device to create an experience true to the device.
+  * > Reliable - Load instantly and reliably, never showing the downasaur, even in uncertain network conditions.
+  * > Engaging - Keeps the user coming back to the app with beautifully designed experiences that look and feel natural.
 
 * Responsive Web Design principles
   * > The fluid grid concept calls for page element sizing to be in relative units like percentages, rather than absolute   units like pixels or points
