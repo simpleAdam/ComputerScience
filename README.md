@@ -36,6 +36,8 @@
    * > 
    
 * Machine Learning
+ * > Mathematical optimizaton problem
+ * > Dynamic programming, Memoization, Bellman
 * Object-Oriented Programming
   * > Polymorphism, static or dynamic
 * Registration
