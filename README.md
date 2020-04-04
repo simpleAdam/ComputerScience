@@ -117,6 +117,7 @@ Sequential: default mode. Sequential execution of code statements (one line afte
 
 The function construct, itself, forms another way to affect flow of control through a whole program. 
 
+## virtual machines
 ### Stack Machines
 In computer science, computer engineering and programming language implementations, a stack machine is a type of computer. In some cases, the term refers to a software scheme that simulates a stack machine.
 
