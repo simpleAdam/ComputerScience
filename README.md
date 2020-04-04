@@ -102,14 +102,20 @@ Distributed computing is a field of computer science that studies distributed sy
 A distributed system is a system whose components are located on different networked computers, 
 which communicate and coordinate their actions by passing messages to one another.
 
-### CGI
-Perl is the de facto standard for CGI programming for a number of reasons, but perhaps the most important are:
+### Control Structures
+## Flow of Control:
+Flow of control through any given function is implemented with three basic types of control structures:
+Sequential: default mode. Sequential execution of code statements (one line after another) -- like following a recipe
+Selection: used for decisions, branching -- choosing between 2 or more alternative paths. In C++, these are the types of # selection statements:
+if
+if/else
+switch
+# Repetition: used for looping, i.e. repeating a piece of code multiple times in a row. In C++, there are three types of loops:
+while
+do/while
+for
 
-* Socket Support-create programs that interface seamlessly with Internet protocols. Your CGI program can send a Web page in response to a transaction and send a series of e-mail messages to inform interested people that the transaction happened.
-* Pattern Matching-ideal for handling form data and searching text.
-* Flexible Text Handling-no details to worry. The way that Perl handles strings, in terms of memory allocation and deallocation, fades into the background as you program. You simply can ignore the details of concatenating, copying, and creating new strings.
-
-The advantage of an interpreted language in CGI applications is its simplicity in development, debugging, and revision. By removing the compilation step, you and I can move more quickly from task to task, without the frustration that can sometimes arise from debugging compiled programs. Of course, not any interpreted language will do. Perl has the distinct advantage of having an extremely rich and capable functionality.
+The function construct, itself, forms another way to affect flow of control through a whole program. 
 
 ### Stack Machines
 In computer science, computer engineering and programming language implementations, a stack machine is a type of computer. In some cases, the term refers to a software scheme that simulates a stack machine.
