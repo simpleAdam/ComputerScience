@@ -103,14 +103,14 @@ A distributed system is a system whose components are located on different netwo
 which communicate and coordinate their actions by passing messages to one another.
 
 ### Control Structures
-## Flow of Control:
+#### Flow of Control:
 Flow of control through any given function is implemented with three basic types of control structures:
 Sequential: default mode. Sequential execution of code statements (one line after another) -- like following a recipe
-Selection: used for decisions, branching -- choosing between 2 or more alternative paths. In C++, these are the types of # selection statements:
+#### Selection: used for decisions, branching -- choosing between 2 or more alternative paths. In C++, these are the types of # selection statements:
 if
 if/else
 switch
-# Repetition: used for looping, i.e. repeating a piece of code multiple times in a row. In C++, there are three types of loops:
+#### Repetition: used for looping, i.e. repeating a piece of code multiple times in a row. In C++, there are three types of loops:
 while
 do/while
 for
