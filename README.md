@@ -102,18 +102,18 @@ Distributed computing is a field of computer science that studies distributed sy
 A distributed system is a system whose components are located on different networked computers, 
 which communicate and coordinate their actions by passing messages to one another.
 
-### Control Structures
-#### Flow of Control:
+## Control Structures
+### Flow of Control:
 Flow of control through any given function is implemented with three basic types of control structures:
 Sequential: default mode. Sequential execution of code statements (one line after another) -- like following a recipe
 #### Selection: used for decisions, branching -- choosing between 2 or more alternative paths. In C++, these are the types of # selection statements:
-if
-if/else
-switch
+* if
+* if/else
+* switch
 #### Repetition: used for looping, i.e. repeating a piece of code multiple times in a row. In C++, there are three types of loops:
-while
-do/while
-for
+* while
+* do/while
+* for
 
 The function construct, itself, forms another way to affect flow of control through a whole program. 
 
