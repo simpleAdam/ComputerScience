@@ -124,3 +124,19 @@ In computer science, computer engineering and programming language implementatio
 The main difference from other computers is that most of its instructions operate on a pushdown stack of numbers rather than numbers held in processor registers. Because the operands used in the instructions are always in a known location, the top of the stack, the instructions themselves do not require memory addresses or register numbers to supply their operands. This leads to an instruction set architecture (ISA) style known as a zero address format.
 
 Stacks are not unique to stack machines, most programming languages make extensive use of stacks to support subroutines and method calls. For this reason, stack machines more closely mimic the inner workings of the programs that run on them, assuming the programs are written in high level languages. This has led to a number of central processor unit designs that implement stack machines in order to provide higher performance. In practice, however, these designs have been outperformed by the traditional register machine systems, and have remained a niche player in the market.
+
+--------------
+## context-free grammar
+The ECMAScript spec defines four grammars:
+
+The lexical grammar describes how Unicode code points are translated into a sequence of input elements (tokens, line terminators, comments, white space).
+
+The syntactic grammar defines how syntactically correct programs are composed of tokens.
+
+The RegExp grammar describes how Unicode code points are translated into regular expressions.
+
+The numeric string grammar describes how Strings are translated into numeric values.
+
+Each grammar is defined as a context-free grammar, consisting of a set of productions.
+
+The grammars use slightly different notation: the syntactic grammar uses LeftHandSideSymbol : whereas the lexical grammar and the RegExp grammar use LeftHandSideSymbol :: and the numeric string grammar uses LeftHandSideSymbol :::.
