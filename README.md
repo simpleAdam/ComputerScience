@@ -2,7 +2,7 @@
 ### repository for CS topics
 
 * Programming Topics
- * > Generators and Coroutines
+  * > Generators and Coroutines
 
 * Google web Fundamentals
  According to Google, the core foundations of a 'delightful web experience' are;
@@ -17,7 +17,7 @@
   * > Media queries allow the page to use different CSS style rules based on characteristics of the device the site is being displayed on.
   
 * Theory of Computation
- * > empty
+  * > empty
 
 * Databases
   * Conceptual modeling The Entity-Relationship
