@@ -1,6 +1,9 @@
 # ComputerScience
 ### repository for CS topics
 
+* Programming Topics
+ * > Generators and Coroutines
+
 * Google web Fundamentals
  According to Google, the core foundations of a 'delightful web experience' are;
   * > Fast - It responds quickly to user interactions with silky smooth animations and no janky scrolling.
@@ -12,6 +15,9 @@
   * > The fluid grid concept calls for page element sizing to be in relative units like percentages, rather than absolute   units like pixels or points
   * > Flexible images are also sized in relative units, so as to prevent them from displaying outside their containing element.
   * > Media queries allow the page to use different CSS style rules based on characteristics of the device the site is being displayed on.
+  
+* Theory of Computation
+ * > empty
 
 * Databases
   * Conceptual modeling The Entity-Relationship
