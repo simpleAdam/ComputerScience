@@ -20,6 +20,7 @@
   #### Automata theory
     Automata theory is the study of abstract machines
     * Type-0,	Recursively enumerable,	Turing machine
+    * Type-1,	Context-sensitive,	Linear-bounded non-deterministic Turing machine
 
 * Databases
   * Conceptual modeling The Entity-Relationship
