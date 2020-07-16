@@ -16,8 +16,8 @@
   * > Flexible images are also sized in relative units, so as to prevent them from displaying outside their containing element.
   * > Media queries allow the page to use different CSS style rules based on characteristics of the device the site is being displayed on.
   
-* Theory of Computation
-  #### Automata theory
+* #### Theory of Computation
+  Automata theory
     Automata theory is the study of abstract machines
     * Type-0,	Recursively enumerable,	Turing machine
     * Type-1,	Context-sensitive,	Linear-bounded non-deterministic Turing machine
