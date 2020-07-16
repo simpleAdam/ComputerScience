@@ -17,7 +17,9 @@
   * > Media queries allow the page to use different CSS style rules based on characteristics of the device the site is being displayed on.
   
 * Theory of Computation
-  * > empty
+  * > Automata theory
+    Automata theory is the study of abstract machines
+    * Type-0,	Recursively enumerable,	Turing machine
 
 * Databases
   * Conceptual modeling The Entity-Relationship
