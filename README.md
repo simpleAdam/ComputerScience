@@ -149,3 +149,9 @@ The numeric string grammar describes how Strings are translated into numeric val
 Each grammar is defined as a context-free grammar, consisting of a set of productions.
 
 The grammars use slightly different notation: the syntactic grammar uses LeftHandSideSymbol : whereas the lexical grammar and the RegExp grammar use LeftHandSideSymbol :: and the numeric string grammar uses LeftHandSideSymbol :::.
+
+-------------
+## dynamic programming
+Memoization is at the heart of dynamic programming
+The numeric string grammar describes how Strings are translated into numeric values.
+
