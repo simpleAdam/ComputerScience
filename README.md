@@ -153,5 +153,3 @@ The grammars use slightly different notation: the syntactic grammar uses LeftHan
 -------------
 ## dynamic programming
 Memoization is at the heart of dynamic programming
-The numeric string grammar describes how Strings are translated into numeric values.
-
