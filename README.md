@@ -22,12 +22,21 @@
     * Type-0,	Recursively enumerable,	Turing machine
     * Type-1,	Context-sensitive,	Linear-bounded non-deterministic Turing machine
 
+* MVC
+  * I spent a very happy and inspiring year as a visiting scientist with the Learning Research Gorup (LRG) at Xerox PARC from the summer og 1978 to the summer of 1979. This group was dedicated to Alan Kay's vision of the Dynabook; a portable computer that should contain all data of interest to its owner/user. Very importantly, these data included the programs the owner used to manipulate them. The owner/user should be able to understand and write the programs, thus gaining ascendancy over the computer.
+  * I have sometimes been given more credit than is my due, so I should stress that I am not one of the original inventors of Smalltalk. I am only one of the very early and very enthusiastic users and contributors to this revolutionary innovation. I made the first implementation and wrote the original MVC note at Xerox PARC in 1978. The note defines four terms; Model, View, Controller and Editor . The Editor is an ephemeral component that the View creates on demand as an interface between the View and the input devices such as mouse and keyboard.
+  * Jim Althoff and others implemented a version of MVC for the Smalltalk-80 class library after I had left Xerox PARC; I was in not involved in this work. Jim Althoff uses the term Controller somewhat differently from me. An important aspect of the original MVC was that its Controller was responsible for creating and coordinating its subordinate views. Also, in my later MVC implementations, a view accepts and handles user input relevant to itself. The Controller accepts and handles input relevant to the Controller/View assembly as a whole, now called the Tool.
+  * The essential purpose of MVC is to bridge the gap between the human user's mental model and the digital model that exists in the computer. The ideal MVC solution supports the user illusion of seeing and manipulating the domain information directly. The structure is useful if the user needs to see the same model element simultaneously in different contexts and/or from different viewpoints. The figure below illustrates the idea.
+  ...
+  [Trygve Reenskaug](http://heim.ifi.uio.no/~trygver/themes/mvc/mvc-index.html)
+
 * Databases
   * Conceptual modeling The Entity-Relationship
   * The relational model
   * The graph-oriented model The NoSQL movement. Implementing ER models in a graph-oriented database.
   * The document-oriented model Semi-structured data (XML, JSON).
   * The multi-dimensional model.
+  
 * Digital Electronics
 
 * Discrete Mathematic - Time in computer games is not continuous - it is split up into frames of 1/60th of a second.
