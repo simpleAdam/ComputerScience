@@ -39,6 +39,9 @@
   
 * Digital Electronics
 
+* Checksum
+  * A checksum is a small-sized datum derived from a block of digital data for the purpose of detecting errors that may have been introduced during its transmission or storage. By themselves, checksums are often used to verify data integrity but are not relied upon to verify data authenticity. 
+
 * Discrete Mathematic - Time in computer games is not continuous - it is split up into frames of 1/60th of a second.
 
 * Foundations of Computer Science
