@@ -17,7 +17,10 @@
   * > Media queries allow the page to use different CSS style rules based on characteristics of the device the site is being displayed on.
   
 * #### Theory of Computation
-  Automata theory
+  The theory of computation can be considered the creation of models of all kinds in the field of computer science.
+  
+  Language theory is a branch of mathematics concerned with describing languages as a set of operations over an alphabet. It is closely linked with automata theory, as automata are used to generate and recognize formal languages. 
+  
     Automata theory is the study of abstract machines
     * Type-0,	Recursively enumerable,	Turing machine
     * Type-1,	Context-sensitive,	Linear-bounded non-deterministic Turing machine
