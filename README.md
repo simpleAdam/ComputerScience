@@ -3,6 +3,9 @@
 
 * Programming Topics
   * > Generators and Coroutines
+  * > Modular programming
+    - Modular programming is a software design technique that emphasizes separating the functionality of a program into independent, interchangeable modules. 
+    - The term assembly (as in .NET languages like C#, F# or Visual Basic .NET) or package (as in Dart, Go or Java) is sometimes used instead of module.
 
 * Google web Fundamentals
  According to Google, the core foundations of a 'delightful web experience' are;
