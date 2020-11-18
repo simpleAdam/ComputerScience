@@ -2,7 +2,8 @@
 ### repository for CS topics
 
 * Tokenizers, Lexers and Parsers.
-  Stack Overflow answer
+
+ (A Stack Overflow answer). 
   A tokenizer breaks a stream of text into tokens, usually by looking for whitespace (tabs, spaces, new lines).
   
   A lexer is basically a tokenizer, but it usually attaches extra context to the tokens -- this token is a number, that token is a string literal, this other token is an equality operator.
