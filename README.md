@@ -1,6 +1,16 @@
 # ComputerScience
 ### repository for CS topics
 
+* Tokenizers, Lexers and Parsers.
+  Stack Overflow answer
+  A tokenizer breaks a stream of text into tokens, usually by looking for whitespace (tabs, spaces, new lines).
+  
+  A lexer is basically a tokenizer, but it usually attaches extra context to the tokens -- this token is a number, that token is a string literal, this other token is an equality operator.
+  
+  A parser takes the stream of tokens from the lexer and turns it into an abstract syntax tree representing the (usually) program represented by the original text.
+  
+  The best book on the subject was "Compilers: Principles, Techniques, and Tools" usually just known as "The Dragon Book". Compilers: Principles, Techniques, and Tools, first published 1986, is known as the Dragon Book to generations of computer scientists as its cover depicts a knight and a dragon in battle, a metaphor for conquering complexity. 
+
 * Programming Topics
   * > Generators and Coroutines
   * > Modular programming
