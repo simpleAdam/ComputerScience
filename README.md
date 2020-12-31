@@ -235,3 +235,26 @@ The data format of a representation is known as a media type. The media type ide
 
 According to Roy Fielding:
 > Hypertext (or hypermedia) means the simultaneous presentation of information and controls such that the information becomes the affordance through which the user    (or automaton) obtains choices and selects actions. Remember that hypertext does not need to be HTML (or XML or JSON) on a browser. Machines can follow links when they understand the data format and relationship types.
+
+----------
+## polyfill
+
+Where polyfill came from / on coining the term
+
+It was when I was writing Introducing HTML5 back in 2009. I was sat in a coffeeshop (as you do) thinking I wanted a word that meant "replicate an API using JavaScript (or Flash or whatever) if the browser doesn't have it natively".
+
+Shim, to me, meant a piece of code that you could add that would fix some functionality, but it would most often have it's own API. I wanted something you could drop in and it would silently work (remember the old shim.gif? that required you actually inserted the image to fix empty td cells - I wanted something that did that for me automatically).
+
+I knew what I was after wasn't progressive enhancement because the baseline that I was working to required JavaScript and the latest technology. So that existing term didn't work for me.
+
+I also knew that it wasn't graceful degradation, because without the native functionality and without JavaScript (assuming your polyfill uses JavaScript), it wouldn't work at all.
+
+So I wanted a word that was simple to say, and could conjure up a vague idea of what this thing would do. Polyfill just kind of came to me, but it fitted my requirements. Poly meaning it could be solved using any number of techniques - it wasn't limited to just being done using JavaScript, and fill would fill the hole in the browser where the technology needed to be. It also didn't imply "old browser" (because we need to polyfill new browser too).
+
+Also for me, the product Polyfilla (spackling in the US) is a paste that can be put in to walls to cover cracks and holes. I really liked that idea of visualising how we're fixing the browser. Once the wall is flat, you can paint as you please or wallpaper to your heart's content.
+
+I had some feedback that the "word should be changed" but it's more that the community at the time needed a word, like we needed Ajax, HTML5, Web 2.0 - something to hang our ideas off. Regardless of whether the word is a perfect fit or not, it's proven it has legs and developers and designers understand the concepts.
+
+I intentionally never really pushed the term out there, I just dropped it in a few key places (most notably the book), and I think it's when +Paul Irish gave a presentation some (many?) months later, directly referencing the term polyfill, was when the term really got a large amount of exposure (I think this was also helped with the addition of the Modernizr HTML5 shims & polyfill page).
+
+-Remy Sharp
