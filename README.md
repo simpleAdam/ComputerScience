@@ -258,3 +258,9 @@ I had some feedback that the "word should be changed" but it's more that the com
 I intentionally never really pushed the term out there, I just dropped it in a few key places (most notably the book), and I think it's when +Paul Irish gave a presentation some (many?) months later, directly referencing the term polyfill, was when the term really got a large amount of exposure (I think this was also helped with the addition of the Modernizr HTML5 shims & polyfill page).
 
 -Remy Sharp
+
+----------
+## test driven development
+Software Engineering: Report of a Conference Sponsored by the NATO Science Committee, Alan Perlis, October 1968
+  
+Extreme Programming Explained, Kent Beck, 1999
